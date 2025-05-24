@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>WBTI/MYSS - Training Institute</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Welcome to West Bengal Training Institute (WBTI/MYSS)</h1>
+    <nav>
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#programs">Training Programs</a></li>
+        <li><a href="#internship">Internship</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>WBTI/MYSS is dedicated to training railway employees, apprentices, and youth through a variety of specialized programs including RKVY, internship, and pre-promotion training.</p>
+  </section>
+
+  <section id="programs">
+    <h2>Training Programs</h2>
+    <ul>
+      <li>Refresher Courses</li>
+      <li>Act Apprenticeship</li>
+      <li>On-the-Job Training (SSE/JE)</li>
+      <li>Pre-Promotion & Pre-Selection Training</li>
+      <li>Induction Training</li>
+      <li>Rail Kaushal Vikas Yojana (RKVY)</li>
+      <li>Special Training Programs</li>
+    </ul>
+  </section>
+
+  <section id="internship">
+    <h2>Internship Training</h2>
+    <p>We offer internships for engineering students to gain exposure to railway systems, maintenance, and operations. Applications are open throughout the year.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: wbti@indianrailways.gov.in</p>
+    <p>Phone: +91-XXXXXXXXXX</p>
+    <p>Address: WBTI, MYSS Railway Workshop, West Bengal</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 West Bengal Training Institute (WBTI/MYSS). All rights reserved.</p>
+  </footer>
+</body>
+</html>
